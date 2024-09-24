@@ -56,3 +56,5 @@ Sinta-se à vontade para contribuir com este projeto! Você pode abrir issues pa
 
 ## Licença
 Este projeto está licenciado sob a MIT License.
+
+![Profile views](https://komarev.com/ghpvc/?username=18carica&color=blueviolet)
